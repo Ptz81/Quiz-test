@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    text-rendering="geometricPrecision"
+    fill-rule="evenodd"
+    xml:space="preserve"
+    shape-rendering="geometricPrecision"
+    version="1.1"
+    clip-rule="evenodd"
+    image-rendering="optimizeQuality"
+    viewBox="0 0 2140 2895"
+  >
+ <g
+      id="Layer_x0020_1"
+    >
+  <path
+        d="m1715 1907h1c-373 586-945 915-1716 988 561-275 823-510 785-707-484-186-662-780-361-1200 373-586 945-915 1716-988-564 276-825 512-785 710 305 128 505 483 505 739 0 254-54 329-146 459z"
+        fill="blue"
+    />
+ </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Hurricane Symbol</dc:title
+        ><dc:date
+          >2013-07-01T15:06:41</dc:date
+        ><dc:description
+          >The represented hurricane symbol used in weather notations.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/179926/hurricane-symbol-by-thebyteman-179926</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >TheByteMan</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >hurricane</rdf:li
+            ><rdf:li
+              >icon</rdf:li
+            ><rdf:li
+              >storm</rdf:li
+            ><rdf:li
+              >symbol</rdf:li
+            ><rdf:li
+              >weather</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
